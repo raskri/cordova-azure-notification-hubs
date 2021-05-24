@@ -1,5 +1,7 @@
 # cordova-azure-notification-hubs
 
+Forked to fit the new ANH structure: https://docs.microsoft.com/bs-latn-ba/azure/notification-hubs/ios-sdk-current
+
 Register and receive push notifications with Azure Notification Hubs.
 
 This cordova plugin is based on [phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push).
